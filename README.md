@@ -8,7 +8,6 @@
 
 <img src="https://img.shields.io/badge/platform-NumWorks-4B6BFB?style=flat-square" alt="Platform: NumWorks" />
 <img src="https://img.shields.io/badge/Python-Epsilon-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python: Epsilon" />
-<img src="https://img.shields.io/badge/UNLICENSE-2EA44F?style=flat-square" alt="UNLICENSE" />
 
 </div>
 
